@@ -1,9 +1,11 @@
-import React from 'react'
+import React from "react";
 
 function server() {
   return (
-    <div>server</div>
-  )
+    <div>
+      <h1>Hi!! i'm gaurang!!</h1>
+    </div>
+  );
 }
 
-export default server
+export default server;
